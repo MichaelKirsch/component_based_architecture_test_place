@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(component_based_architecture_test_place)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(component_based_architecture_test_place main.cpp)
